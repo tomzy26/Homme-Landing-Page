@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Homme-Landing-Page/static/css/main.64d6710f.css",
+    "main.js": "/Homme-Landing-Page/static/js/main.dbb49e64.js",
+    "static/js/787.310b28fc.chunk.js": "/Homme-Landing-Page/static/js/787.310b28fc.chunk.js",
+    "index.html": "/Homme-Landing-Page/index.html",
+    "main.64d6710f.css.map": "/Homme-Landing-Page/static/css/main.64d6710f.css.map",
+    "main.dbb49e64.js.map": "/Homme-Landing-Page/static/js/main.dbb49e64.js.map",
+    "787.310b28fc.chunk.js.map": "/Homme-Landing-Page/static/js/787.310b28fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d6710f.css",
+    "static/js/main.dbb49e64.js"
+  ]
+}
